@@ -1,0 +1,34 @@
+{
+  "formatVersion": "2",
+  "header": {
+    "description": "工單拋轉MES",
+    "originalLanguage": "zh-Hant",
+    "abapLanguageVersion": "cloudDevelopment"
+  },
+  "generalInformation": {
+    "appType": "ui5",
+    "catalogId": "SAP_TC_UI5_REPO_UIAD",
+    "targetMappingTitle": "工單拋轉MES"
+  },
+  "ui5AppDetails": {
+    "appId": "zz1pomes"
+  },
+  "navigation": {
+    "targetMappingId": "UI5R_4F1A96FC209D9F30FE24DC13CF5BEF1149AA8E33_TM",
+    "semanticObject": "zz1_pomes",
+    "action": "Manage",
+    "desktop": true,
+    "tablet": true,
+    "phone": true
+  },
+  "tiles": [
+    {
+      "id": "UI5R_4F1A96FC209D9F30FE24DC13CF5BEF1149AA8E33_AL",
+      "tileType": "static",
+      "isDefault": true,
+      "standard": {
+        "title": "工單拋轉MES"
+      }
+    }
+  ]
+}

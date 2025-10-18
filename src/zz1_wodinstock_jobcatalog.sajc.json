@@ -1,0 +1,19 @@
+{
+  "formatVersion": "1",
+  "header": {
+    "description": "拆解工單入庫拋轉MES",
+    "originalLanguage": "en",
+    "abapLanguageVersion": "cloudDevelopment"
+  },
+  "generalInformation": {
+    "className": "ZZ1_CL_WODINSTOCK"
+  },
+  "parameters": [
+    {
+      "name": "S_DATE"
+    },
+    {
+      "name": "P_ENFORC"
+    }
+  ]
+}

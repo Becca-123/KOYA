@@ -1,0 +1,16 @@
+{
+  "formatVersion": "1",
+  "header": {
+    "description": "出貨通知單拋轉",
+    "originalLanguage": "en",
+    "abapLanguageVersion": "cloudDevelopment"
+  },
+  "generalInformation": {
+    "className": "ZZ1_CL_ODMES"
+  },
+  "parameters": [
+    {
+      "name": "S_DATE"
+    }
+  ]
+}

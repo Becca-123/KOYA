@@ -1,0 +1,14 @@
+{
+  "formatVersion": "1",
+  "header": {
+    "description": "線邊倉發料拋轉MES LOG",
+    "originalLanguage": "en",
+    "abapLanguageVersion": "cloudDevelopment"
+  },
+  "subobjects": [
+    {
+      "name": "ZZ1_MOCOMPONENT",
+      "description": "線邊倉發料拋轉MES LOG"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+@EndUserText.label: '工單MES拋轉作業 Service Definition'
+define service ZZ1_POHDMES_SD {
+  expose ZZ1_PV_POHDMES;
+  expose ZZ1_PV_POHDMESLOG;
+  expose ZZ1_PV_POCOMPONENTMESLOG;
+  expose ZZ1_PV_WOTYPE;
+  expose ZZ1_PV_MOCOMPONENTLOG;
+  expose ZZ1_PV_WODINSTOCKLOG;
+}

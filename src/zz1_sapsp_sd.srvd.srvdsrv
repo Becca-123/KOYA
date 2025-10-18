@@ -1,0 +1,4 @@
+@EndUserText.label: 'SAP Screen Personas取得資料'
+define service ZZ1_SAPSP_SD {
+  expose ZZ1_I_MANUFACTURINGORDER;
+}

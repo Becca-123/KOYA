@@ -1,0 +1,19 @@
+{
+  "formatVersion": "1",
+  "header": {
+    "description": "線邊倉發料拋轉MES",
+    "originalLanguage": "en",
+    "abapLanguageVersion": "cloudDevelopment"
+  },
+  "generalInformation": {
+    "className": "ZZ1_CL_MOCOMPONENT"
+  },
+  "parameters": [
+    {
+      "name": "S_DATE"
+    },
+    {
+      "name": "P_ENFORC"
+    }
+  ]
+}

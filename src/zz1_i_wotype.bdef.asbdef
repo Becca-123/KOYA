@@ -1,0 +1,28 @@
+managed implementation in class zz1_cl_wotype unique;
+strict ( 2 );
+with draft;
+
+define behavior for ZZ1_I_WOTYPE //alias <alias_name>
+persistent table zz1_wotype
+lock master total etag aufart
+draft table zz1_wotype_d
+authorization master ( global )
+//etag master <field_name>
+{
+  create;
+  delete;
+
+  field ( mandatory : create ) aufart;
+  field ( readonly ) ernam, ertmp;
+  draft action Edit;
+  draft action Activate optimized;
+  draft action Discard;
+  draft action Resume;
+  draft determine action Prepare;
+  mapping for zz1_wotype_d
+    {
+      aufart = aufart;
+      ernam   = ernam;
+      ertmp   = ertmp;
+    }
+}

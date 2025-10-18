@@ -1,0 +1,34 @@
+{
+  "formatVersion": "2",
+  "header": {
+    "description": "MES拆解入庫拋轉LOG",
+    "originalLanguage": "zh-Hant",
+    "abapLanguageVersion": "cloudDevelopment"
+  },
+  "generalInformation": {
+    "appType": "ui5",
+    "catalogId": "SAP_TC_UI5_REPO_UIAD",
+    "targetMappingTitle": "MES拆解入庫拋轉LOG"
+  },
+  "ui5AppDetails": {
+    "appId": "zz1wodinstocklog"
+  },
+  "navigation": {
+    "targetMappingId": "UI5R_625FCB4304E7ACBB46CAE145B0BCBDDF6233471C_TM",
+    "semanticObject": "zz1_wodinstocklog",
+    "action": "Manage",
+    "desktop": true,
+    "tablet": true,
+    "phone": true
+  },
+  "tiles": [
+    {
+      "id": "UI5R_625FCB4304E7ACBB46CAE145B0BCBDDF6233471C_AL",
+      "tileType": "static",
+      "isDefault": true,
+      "standard": {
+        "title": "MES拆解入庫拋轉LOG"
+      }
+    }
+  ]
+}
