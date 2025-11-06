@@ -1,0 +1,14 @@
+{
+  "formatVersion": "1",
+  "header": {
+    "description": "產品新增儲存地點 LOG",
+    "originalLanguage": "en",
+    "abapLanguageVersion": "cloudDevelopment"
+  },
+  "subobjects": [
+    {
+      "name": "ZZ1_PROSLOCATION",
+      "description": "產品新增儲存地點"
+    }
+  ]
+}

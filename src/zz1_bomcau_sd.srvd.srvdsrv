@@ -1,0 +1,4 @@
+@EndUserText.label: 'BOM上傳與更新 Service Definition'
+define service ZZ1_BOMCAU_SD {
+  expose ZZ1_PV_BOMCAU;
+}

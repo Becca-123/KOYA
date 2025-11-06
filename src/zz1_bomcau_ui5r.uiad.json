@@ -1,0 +1,34 @@
+{
+  "formatVersion": "2",
+  "header": {
+    "description": "BOM上傳",
+    "originalLanguage": "zh-Hant",
+    "abapLanguageVersion": "cloudDevelopment"
+  },
+  "generalInformation": {
+    "appType": "ui5",
+    "catalogId": "SAP_TC_UI5_REPO_UIAD",
+    "targetMappingTitle": "BOM上傳"
+  },
+  "ui5AppDetails": {
+    "appId": "zz1bomcau"
+  },
+  "navigation": {
+    "targetMappingId": "UI5R_C66BF18E348603C56F3EF505203B2FE402D16B49_TM",
+    "semanticObject": "zz1_bomcau",
+    "action": "Manage",
+    "desktop": true,
+    "tablet": true,
+    "phone": true
+  },
+  "tiles": [
+    {
+      "id": "UI5R_C66BF18E348603C56F3EF505203B2FE402D16B49_AL",
+      "tileType": "static",
+      "isDefault": true,
+      "standard": {
+        "title": "BOM上傳"
+      }
+    }
+  ]
+}

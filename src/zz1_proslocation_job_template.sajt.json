@@ -1,0 +1,19 @@
+{
+  "formatVersion": "1",
+  "header": {
+    "description": "產品新增儲存地點",
+    "originalLanguage": "en",
+    "abapLanguageVersion": "cloudDevelopment"
+  },
+  "generalInformation": {
+    "catalogName": "ZZ1_PROSLOCATION_JOBCATALOG"
+  },
+  "parameters": {
+    "singleValueParameters": [
+      {
+        "name": "P_CLNT",
+        "value": ""
+      }
+    ]
+  }
+}
